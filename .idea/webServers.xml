@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66050375-24c3-4738-a08f-b639573c6096" name="myInPlaceServer" url="http://localhost:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f8ad3ca1-b38c-41a9-a2b2-ac3fb28a60f8" name="myLocalServer" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\GitHub\PHPStorm\symfony" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
